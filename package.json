@@ -1,0 +1,25 @@
+{
+  "name": "puffy",
+  "version": "0.0.1",
+  "description": "Basecamp and toggl binding",
+  "main": "index.js",
+  "dependencies": {
+    "basecamp": "^0.2.0",
+    "bu.dmenu": "^0.0.1",
+    "commander": "^2.3.0",
+    "toggl-api": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "puffy": "./index.js"
+  },
+  "keywords": [
+    "basecamp",
+    "toggle"
+  ],
+  "author": "Aleksej Kamynin <zendzirou@gmail.com>",
+  "license": "MIT"
+}
